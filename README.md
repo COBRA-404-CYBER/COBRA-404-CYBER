@@ -19,11 +19,11 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 𝗣𝗔𝗚𝗘 : [ＣＯＢＲＡ 404](https://www.facebook.com/Cobra.404.Cyber/)
+𝗣𝗔𝗚𝗘 : [ＣＯＢＲＡ 404](https://www.facebook.com/Cobra.404.Cyber/)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-𝗙𝗔𝗖𝗘𝗕𝗢𝗞𝗞 𝗚𝗥𝗢𝗨𝗣 : [𝐂𝐎𝐁𝐑𝐀-404-𝐂𝐘𝐁𝐄𝐄-𝐖𝐎𝐑𝐋𝐃](https://www.facebook.com/groups/1354738058401296/?ref=share&mibextid=NSMWB)
+𝗚𝗥𝗢𝗨𝗣 : [𝐂𝐎𝐁𝐑𝐀-404-𝐂𝐘𝐁𝐄𝐄-𝐖𝐎𝐑𝐋𝐃](https://www.facebook.com/groups/1354738058401296/?ref=share&mibextid=NSMWB)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
