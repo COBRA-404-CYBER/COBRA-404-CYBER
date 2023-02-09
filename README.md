@@ -4,7 +4,7 @@
 <a href="#"><img title="COBRA-404-CYBER" src="https://l.top4top.io/p_2596gjvxw0.jpg"></a>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/COBRA-404-CYBER](https://github.com/COBRA-404-CYBER)
+- contact me [FARHAN KHAN](https://www.facebook.com/virtua.jhonny.sins?mibextid=ZbWKwL)
 
 - contact me **farhanqadri447@gmail.com**
 
