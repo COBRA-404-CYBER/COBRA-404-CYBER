@@ -8,15 +8,27 @@
 - contact me **farhanqadri447@gmail.com**
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<h1 align="center">𝗡𝗔𝗠𝗘 : 𝗙𝗔𝗥𝗛𝗔𝗡 𝗞𝗛𝗔𝗡</h1>
-<h1 align="center">𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 : [FARHAN KHAN](https://www.facebook.com/virtua.jhonny.sins?mibextid=ZbWKwL) </h1>
 
-<img align="center" alt="line">
-[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 𝗣𝗔𝗚𝗘 : [ＣＯＢＲＡ 404] [https://www.facebook.com/Cobra.404.Cyber/]
-<img align="center" alt="line">
-[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗞𝗞 𝗚𝗥𝗢𝗨𝗣 : [𝐂𝐎𝐁𝐑𝐀-404-𝐂𝐘𝐁𝐄𝐄-𝐖𝐎𝐑𝐋𝐃](https://www.facebook.com/groups/1354738058401296/?ref=share&mibextid=NSMWB)
-<img align="center" alt="line">
-[+] 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 : [FARHAN KHAN](am start https://wa.me/+8801838847447?text=)
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+𝗡𝗔𝗠𝗘 : 𝗙𝗔𝗥𝗛𝗔𝗡 𝗞𝗛𝗔𝗡
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 : [FARHAN KHAN](https://www.facebook.com/virtua.jhonny.sins?mibextid=ZbWKwL)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 𝗣𝗔𝗚𝗘 : [ＣＯＢＲＡ 404] [https://www.facebook.com/Cobra.404.Cyber/]
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+𝗙𝗔𝗖𝗘𝗕𝗢𝗞𝗞 𝗚𝗥𝗢𝗨𝗣 : [𝐂𝐎𝐁𝐑𝐀-404-𝐂𝐘𝐁𝐄𝐄-𝐖𝐎𝐑𝐋𝐃](https://www.facebook.com/groups/1354738058401296/?ref=share&mibextid=NSMWB)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 : [FARHAN KHAN](am start https://wa.me/+8801838847447?text=)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/farhan khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhan khan" height="30" width="40" /></a>
