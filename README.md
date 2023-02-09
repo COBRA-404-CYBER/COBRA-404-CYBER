@@ -19,7 +19,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 𝗣𝗔𝗚𝗘 : [ＣＯＢＲＡ 404] [https://www.facebook.com/Cobra.404.Cyber/]
+𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 𝗣𝗔𝗚𝗘 : [ＣＯＢＲＡ 404](https://www.facebook.com/Cobra.404.Cyber/)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -27,7 +27,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 : [FARHAN KHAN](am start https://wa.me/+8801838847447?text=)
+𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 : [FARHAN KHAN](https://wa.me/+8801838847447?text=)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
