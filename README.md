@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/COBRA-404-CYBER](https://github.com/COBRA-404-CYBER)
 
-- 📫 How to reach me **farhanqadri447@gmail.com**
+- contact me **farhanqadri447@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
