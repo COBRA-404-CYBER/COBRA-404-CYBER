@@ -8,11 +8,9 @@
 - contact me **farhanqadri447@gmail.com**
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">𝗡𝗔𝗠𝗘 : 𝗙𝗔𝗥𝗛𝗔𝗡 𝗞𝗛𝗔𝗡</h1>
+<h1 align="center">𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 : [FARHAN KHAN](https://www.facebook.com/virtua.jhonny.sins?mibextid=ZbWKwL) </h1>
 
-<img align="center" alt="line">
-[+] 𝗡𝗔𝗠𝗘 : 𝗙𝗔𝗥𝗛𝗔𝗡 𝗞𝗛𝗔𝗡
-<img align="center" alt="line">
-[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 : [FARHAN KHAN](https://www.facebook.com/virtua.jhonny.sins?mibextid=ZbWKwL)
 <img align="center" alt="line">
 [+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 𝗣𝗔𝗚𝗘 : [ＣＯＢＲＡ 404] [https://www.facebook.com/Cobra.404.Cyber/]
 <img align="center" alt="line">
