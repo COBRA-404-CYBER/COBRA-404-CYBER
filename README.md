@@ -14,7 +14,7 @@
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" scr=https://b.top4top.io/p_25961f6570.gif>
+<img align="right" alt="coding" width="400" scr="https://b.top4top.io/p_25961f6570.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=black-cobra404&label=Profile%20views&color=0e75b6&style=flat" alt="black-cobra404" /> </p>
 
