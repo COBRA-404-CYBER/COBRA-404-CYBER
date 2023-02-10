@@ -31,7 +31,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 : [FARHAN KHAN](t.me/C08r4)
+𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 : [FARHAN KHAN](t.me/@C08r4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
