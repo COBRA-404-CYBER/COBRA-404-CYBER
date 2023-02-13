@@ -15,7 +15,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 : [FARHAN KHAN](https://www.facebook.com/virtua.jhonny.sins?mibextid=ZbWKwL)
+𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 : [FARHAN KHAN](https://www.facebook.com/FarhanXTermux?mibextid=ZbWKwL)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
