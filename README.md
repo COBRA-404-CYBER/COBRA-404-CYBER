@@ -15,7 +15,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 : [FARHAN KHAN](https://www.facebook.com/FarhanXTermux?mibextid=ZbWKwL)
+𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 : [FARHAN KHAN](https://www.facebook.com/F4RH4NKHAN?mibextid=ZbWKwL)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -31,12 +31,12 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 : [FARHAN KHAN](t.me/@C08r4)
+𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 : [FARHAN KHAN](http://t.me/FarhanXTermux)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/virtua.jhonny.sins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhan khan" height="30" width="40" /></a>
-<a href="https://instagram.com/farhan khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farhan khan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/F4RH4NKHAN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhan khan" height="30" width="40" /></a>
+<a href="https://instagram.com/farhan_x_termux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farhan khan" height="30" width="40" /></a>
 <a href="https://youtube.com/@CobraTecBD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cobra te bd" height="30" width="40" /></a>
 </p>
 
